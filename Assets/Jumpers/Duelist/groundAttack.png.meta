@@ -1,0 +1,110 @@
+fileFormatVersion: 2
+guid: 03d1c27469945cb4e898450b8c3559a8
+timeCreated: 1430719455
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: groundAttack_0
+    21300002: groundAttack_1
+    21300004: groundAttack_2
+    21300006: groundAttack_3
+    21300008: groundAttack_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 1
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 5
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: groundAttack_0
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 41
+        height: 65
+      alignment: 9
+      pivot: {x: .5, y: .537999988}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: groundAttack_1
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 0
+        width: 96
+        height: 60
+      alignment: 9
+      pivot: {x: .300000012, y: .582000017}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: groundAttack_2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 92
+        height: 46
+      alignment: 9
+      pivot: {x: .389999986, y: .75999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: groundAttack_3
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 0
+        width: 58
+        height: 65
+      alignment: 9
+      pivot: {x: .5, y: .537999988}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: groundAttack_4
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 0
+        width: 28
+        height: 84
+      alignment: 9
+      pivot: {x: .689999998, y: .416000009}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

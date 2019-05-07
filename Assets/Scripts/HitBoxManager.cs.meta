@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0e7a0fd2dc2ab09448346a4714d54751
+timeCreated: 1430265776
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - downAttack: {instanceID: 0}
+  - groundAttack: {instanceID: 0}
+  - midAirAttack1: {instanceID: 0}
+  - midAirAttack2: {instanceID: 0}
+  - healthBarImage: {instanceID: 0}
+  - healthBarEmpty: {fileID: 21300000, guid: 43d1d814bc577e349ae97966fd841e18, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

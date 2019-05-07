@@ -1,0 +1,121 @@
+fileFormatVersion: 2
+guid: cae39c4051d1b9844a5c1cc497827ffe
+timeCreated: 1432223744
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: swords_groundAttack_1_1_0
+    21300002: swords_groundAttack_1_1_1
+    21300004: swords_groundAttack_1_1_2
+    21300006: swords_groundAttack_1_1_3
+    21300008: swords_groundAttack_1_1_4
+    21300010: swords_groundAttack_1_1_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: swords_groundAttack_1_1_0
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 41
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: swords_groundAttack_1_1_1
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 0
+        width: 135
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: swords_groundAttack_1_1_2
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 0
+        width: 95
+        height: 70
+      alignment: 9
+      pivot: {x: .330000013, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: swords_groundAttack_1_1_3
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 71
+        height: 70
+      alignment: 9
+      pivot: {x: .479999989, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: swords_groundAttack_1_1_4
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 0
+        width: 33
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: swords_groundAttack_1_1_5
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 0
+        width: 42
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

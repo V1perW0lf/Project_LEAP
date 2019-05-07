@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: d01ec312e1f7fd94fb8d6698004a8341
+timeCreated: 1430268997
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: maleRunning_0
+    21300002: maleRunning_1
+    21300004: maleRunning_2
+    21300006: maleRunning_3
+    21300008: maleRunning_4
+    21300010: maleRunning_5
+    21300012: maleRunning_6
+    21300014: maleRunning_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 1
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 5
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: maleRunning_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 90
+        width: 62
+        height: 61
+      alignment: 9
+      pivot: {x: .5, y: .564999998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maleRunning_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 92
+        width: 62
+        height: 57
+      alignment: 9
+      pivot: {x: .5, y: .606999993}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maleRunning_2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 93
+        width: 51
+        height: 59
+      alignment: 9
+      pivot: {x: .5, y: .584999979}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maleRunning_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 93
+        width: 36
+        height: 59
+      alignment: 9
+      pivot: {x: .5, y: .584999979}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maleRunning_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 23
+        width: 60
+        height: 61
+      alignment: 9
+      pivot: {x: .5, y: .566999972}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maleRunning_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 20
+        width: 61
+        height: 61
+      alignment: 9
+      pivot: {x: .5, y: .564999998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maleRunning_6
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 20
+        width: 50
+        height: 59
+      alignment: 9
+      pivot: {x: .5, y: .583999991}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: maleRunning_7
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 20
+        width: 36
+        height: 59
+      alignment: 9
+      pivot: {x: .5, y: .583999991}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

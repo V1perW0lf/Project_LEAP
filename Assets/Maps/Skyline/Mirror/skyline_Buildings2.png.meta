@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: 4fc549f798984b34dbadd57a47c29905
+timeCreated: 1425635502
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: skyline_Buildings2_0
+    21300002: skyline_Buildings2_1
+    21300004: skyline_Buildings2_2
+    21300006: skyline_Buildings2_3
+    21300008: skyline_Buildings2_4
+    21300010: skyline_Buildings2_5
+    21300012: skyline_Buildings2_6
+    21300014: skyline_Buildings2_7
+    21300016: skyline_Buildings2_8
+    21300018: skyline_Buildings2_9
+    21300020: skyline_Buildings2_10
+    21300022: skyline_Buildings2_11
+    21300024: skyline_Buildings2_12
+    21300026: skyline_Buildings2_13
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    textureFormat: -1
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: skyline_Buildings2_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 0
+        width: 385
+        height: 818
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skyline_Buildings2_1
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 0
+        width: 804
+        height: 721
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skyline_Buildings2_2
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 0
+        width: 680
+        height: 845
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skyline_Buildings2_3
+      rect:
+        serializedVersion: 2
+        x: 2390
+        y: 0
+        width: 654
+        height: 654
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skyline_Buildings2_4
+      rect:
+        serializedVersion: 2
+        x: 3037
+        y: 0
+        width: 706
+        height: 909
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skyline_Buildings2_5
+      rect:
+        serializedVersion: 2
+        x: 3787
+        y: 0
+        width: 746
+        height: 979
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skyline_Buildings2_6
+      rect:
+        serializedVersion: 2
+        x: 4627
+        y: 0
+        width: 825
+        height: 1011
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skyline_Buildings2_7
+      rect:
+        serializedVersion: 2
+        x: 5730
+        y: 0
+        width: 763
+        height: 1028
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skyline_Buildings2_8
+      rect:
+        serializedVersion: 2
+        x: 6575
+        y: 0
+        width: 679
+        height: 959
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skyline_Buildings2_9
+      rect:
+        serializedVersion: 2
+        x: 7308
+        y: 0
+        width: 730
+        height: 1016
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skyline_Buildings2_10
+      rect:
+        serializedVersion: 2
+        x: 8045
+        y: 0
+        width: 626
+        height: 793
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skyline_Buildings2_11
+      rect:
+        serializedVersion: 2
+        x: 8778
+        y: 0
+        width: 737
+        height: 837
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skyline_Buildings2_12
+      rect:
+        serializedVersion: 2
+        x: 9688
+        y: 0
+        width: 770
+        height: 719
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skyline_Buildings2_13
+      rect:
+        serializedVersion: 2
+        x: 10664
+        y: 0
+        width: 408
+        height: 877
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
